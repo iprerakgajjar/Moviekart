@@ -1,0 +1,186 @@
+﻿.main {
+    background-color:lightblue;
+    border-radius:10px;
+    text-align:center;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+.body {
+    text-align:center;
+    background-color:lightblue;
+    height:300px;
+    width:320px;
+    border-radius:10px;
+    margin-top:150px;
+    font-size:20px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#collection {
+    font-size:20px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox1 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox2 {
+    height: 40px;
+    width: 250px;
+    text-align: center;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Century Gothic','Times New Roman',Arial;
+}
+#Button1 {
+    background-color:grey;
+    color:#fff;
+    height:40px;
+    width:200px;
+    border:none;
+    outline:none;
+    border-radius:10px;
+    transition: ease 1s;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#Button1:hover {
+    background-color:#000;
+    color:#fff;
+    height:40px;
+    width:200px;
+    border:none;
+    outline:none;
+    border-radius:10px;
+    transition: ease 1s;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#Button2 {
+    background-color:grey;
+    color:#fff;
+    height:40px;
+    width:200px;
+    border:none;
+    outline:none;
+    border-radius:10px;
+    transition: ease 1s;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#Button2:hover {
+    background-color:#000;
+    color:#fff;
+    height:40px;
+    width:200px;
+    border:none;
+    outline:none;
+    border-radius:10px;
+    transition: ease 1s;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+.bodybar {
+    text-align:center;
+    background-color:lightblue;
+    height:480px;
+    width:320px;
+    border-radius:10px;
+    margin-top:150px;
+    font-size:20px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox3 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox4 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox5 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#TextBox6 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#details1 {
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#DropDownList1 {
+    height:40px;
+    width:250px;
+    text-align:center;
+    outline:none;
+    border:none;
+    border-radius:10px;
+    font-size:15px;
+    font-family:'Century Gothic','Times New Roman',Arial;
+}
+#slider {
+    height:300px;
+    width:700px;
+    background-color:lightblue;
+    overflow:hidden;
+    border-radius:10px;
+}
+#slider figure{
+            position: relative;
+            width: 500%;
+            margin: 0;
+            left: 0;
+            animation: 20s slider infinite;
+        }
+        #slider figure img{
+            float: right;
+            width: 20%;
+        }
+        @keyframes slider{
+            0%{
+                left: 0;
+            }
+            20%{
+                left: 0;
+            }
+            25%{
+                left: -100%;
+            }
+            45%{
+                left: -100%;
+            }
+            50%{
+                left: -200%;
+            }
+            70%{
+                left: -200%;
+            }
+        }

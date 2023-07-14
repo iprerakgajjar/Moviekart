@@ -1,0 +1,5 @@
+D:\#vsproject\Moviekart.com\Moviekart.com\bin\Moviekart.com.dll
+D:\#vsproject\Moviekart.com\Moviekart.com\bin\Moviekart.com.pdb
+D:\#vsproject\Moviekart.com\Moviekart.com\obj\Debug\Moviekart.com.dll
+D:\#vsproject\Moviekart.com\Moviekart.com\obj\Debug\Moviekart.com.pdb
+D:\#vsproject\Moviekart.com\Moviekart.com\obj\Debug\Moviekart.com.csprojResolveAssemblyReference.cache
